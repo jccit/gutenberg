@@ -120,6 +120,7 @@ class EditorProvider extends Component {
 				'__experimentalEnableLegacyWidgetBlock',
 				'__experimentalEnableFullSiteEditing',
 				'__experimentalEnableFullSiteEditingDemo',
+				'__experimentalEnableRichImageEditing',
 				'__experimentalFeatures',
 				'__experimentalGlobalStylesUserEntityId',
 				'__experimentalGlobalStylesBase',
